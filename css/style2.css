@@ -1,0 +1,88 @@
+.nav-link {
+  color: red !important;
+}
+
+.nav-link:hover {
+  color: blue !important;
+}
+
+/* h3 {
+  color: rgba(197, 27, 27, 0.801) 
+  font-family: Arial, sans-serif 
+} */
+
+p {
+  color: rgb(61, 155, 52);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 120%;
+  
+}
+
+p:hover {
+  color: rgb(67, 20, 177);
+}
+
+.mi-color {
+  color: rgb(17, 1, 17);
+}
+
+.mi-color:hover {
+  color: rgb(14, 204, 30);
+  background-color: black;
+}
+
+.mi-parrafo:hover {
+  color: rgb(42, 17, 151);
+  font-family: cursive;
+  font-size: 150%;
+}
+
+.iconos:hover {
+  margin-right: 10px;
+  border-radius: 20%;
+
+}
+
+.iconos {
+  margin-right: 20px;
+  border-radius: 40%;
+}
+.information:hover {
+  color: red !important;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/736x/f2/25/f0/f225f0da5b621b872f6513d59f89a9b6.jpg");
+  background-size: cover;
+
+  text-align: center;
+}
+
+.mi-nombre {
+  color: red !important;           
+ font-family: Arial, Helvetica, sans-serif;
+  font-size: 110%;              
+}
+
+.mi-nombre:hover {
+  color: blue !important;         
+  text-shadow: 0 0 5px rgba(0,0,255,0.6); 
+}
+
+.imagenrpincipal:hover{
+    color: red;
+    border-radius: 50%;
+}
+
+.mi-final {
+  text-align: center;
+ 
+}
+
+.col-md-3 {
+  background-color: #37db0e;
+  border-radius: 10px; 
+  padding: 20px; 
+  color: #3431e0; 
+}
+
