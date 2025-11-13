@@ -25,10 +25,10 @@ p:hover {
 .mi-color {
   color: rgb(17, 1, 17);
 }
-.mi-color a {
+.mi-calculo a {
   color: rgb(17, 1, 17);
 }
-.mi-color a:hover {
+.mi-calculo a:hover {
   color: rgb(14, 204, 30);
   background-color: black;
 }
@@ -92,5 +92,6 @@ body {
   padding: 20px; 
   color: #3431e0; 
 }
+
 
 
