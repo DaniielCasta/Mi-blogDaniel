@@ -25,6 +25,13 @@ p:hover {
 .mi-color {
   color: rgb(17, 1, 17);
 }
+.mi-color a {
+  color: rgb(17, 1, 17);
+}
+.mi-color a:hover {
+  color: rgb(14, 204, 30);
+  background-color: black;
+}
 
 .mi-color:hover {
   color: rgb(14, 204, 30);
@@ -85,4 +92,5 @@ body {
   padding: 20px; 
   color: #3431e0; 
 }
+
 
