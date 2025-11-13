@@ -24,6 +24,7 @@ p:hover {
 
 .mi-color {
   color: rgb(17, 1, 17);
+  text-decoration: none;
 }
 .mi-calculo a {
   color: rgb(17, 1, 17)!important;
